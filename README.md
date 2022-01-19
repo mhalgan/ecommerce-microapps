@@ -1,8 +1,8 @@
-# ecommerce-microapps
-Basic Javascript micro apps integration project
+# ecommerce-microfrontends
+Plain Javascript micro frontends integration project
 
 # Running the project
-This project has 2 micro apps that can run in standalone mode. To start them just go to `products` or `cart` folders and then run the following commands:
+This project has 2 micro frontends that can run in standalone mode. To start them just go to `products` or `cart` folders and then run the following commands:
 ```
 npm i
 npm start
